@@ -10,3 +10,6 @@ The tool offers a range of features including data ingestion, cleaning, transfor
 
 ## Getting-Started
 To get started with the tool, simply clone the repository, install the required dependencies, and follow the instructions in the documentation to configure and run the tool.
+
+## Changelog
+- Added utility functions
